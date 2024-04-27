@@ -29,6 +29,3 @@ Generate an API Key on <https://openweathermap.org/api>, then add the following 
 #Pubilc
 PUBLIC_API_KEY="you_api_key"
 ```
-````
-
-
